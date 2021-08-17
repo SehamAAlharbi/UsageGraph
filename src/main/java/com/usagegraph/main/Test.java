@@ -15,7 +15,6 @@ public class Test {
 		try {
 			parser.parseFiles(DIRECTORYPATH, SRC_PATH);
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		

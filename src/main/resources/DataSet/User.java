@@ -2,6 +2,11 @@ package askapp.user;
 
 import askapp.model.DB;
 
+/**
+ * A class contains a misuse
+ * @author sehamalharbi
+ *
+ */
 public class User {
 
 	public boolean isUserFound(int userID, int sessionID) {
