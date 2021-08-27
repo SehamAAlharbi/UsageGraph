@@ -5,7 +5,6 @@ import askapp.model.DB;
 /**
  * A class contains a misuse
  * @author sehamalharbi
- *
  */
 public class User {
 
